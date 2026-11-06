@@ -1,7 +1,7 @@
 # rubik_adat
 
 Tanítóadat a `rubik_kocka` projekt lapdetektorához (YOLO11n-seg, egy osztály: `face`).
-A Colab innen húzza az adatot (GitHub: `borsz05/rubik_adat`).
+A Colab innen húzza az adatot (GitHub: `borsz05/rubik-adat`).
 
 ```
 synth/v1/        szintetikus (Blender), YOLO-seg formátum
